@@ -1,3 +1,4 @@
+</h1> prikazy
 git add  . </br>
 git commit -m "neco"</br>
 git push</br>

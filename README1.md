@@ -1,10 +1,11 @@
-git add  . 
-git commit -m "neco"
-git push
-git clone
-cd neco
-code
-cat
-mkdir
-ssh-T git@ github.com
-git pull //synchronizace
+git add  . </br>
+git commit -m "neco"</br>
+git push</br>
+git clone</br>
+cd neco</br>
+code</br>
+cat</br>
+mkdir</br>
+ssh-T git@ github.com</br>
+git pull //synchronizace</br>
+
